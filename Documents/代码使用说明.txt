@@ -1,0 +1,4 @@
+1.Finger Vein文件夹下为提取指静脉特征点的代码
+2.Fingerprint文件夹下为提取指纹特征点的代码
+3.Fuzzy Vault文件夹下为模糊金库算法相关代码
+4.ZFKDirectExe文件夹下为中控指静脉仪器控制代码
